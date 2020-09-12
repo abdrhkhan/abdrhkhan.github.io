@@ -8,11 +8,11 @@ Here, "sustainable" refers to the ability to consistently make food descions lea
 <br/>
 The following images overview some of the food of this research: 
 <br/>
-![Rescued Carrots & Cauliflower](carrotseason.JPG)
+![Rescued Carrots & Cauliflower](carrot.JPG)
 <br/>
 ![Freshly picked strawberries](strawberries.JPG)
 <br/>
-![All prepared veggies](veggieseason.jpg)
+![All prepared veggies](veggie.jpg)
 <br/>
 ![Fresh bread & veggies](bread.jpg)
 <br/>
