@@ -4,4 +4,4 @@ title: Week 4 Activity
 ---
 The following are images from my Summer Food Research project. I included them because they are a big part of what I did this summer. 
 <br/>
-[Click here to view images](abdrhkhan.github.io/about/fileActivity.html)
+[Click here to view images](https://fileActivity.com/about.html)
