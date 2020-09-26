@@ -1,6 +1,11 @@
 ---
 title: Weekly Reflection - What is Markup?
 layout: post
+author: 
+  name: Abdul Rahman Khan 
+  url: https://abdrhkhan.github.io/
+categories: 
+- Reflection
 ---
 **Reflection:**<br/>
 This week we compared Markup and Hypertext Markup Language (HTML) and unveiled the logic behind each platform. Markdown boasts a simplified structure that allows users to have the same functionality as HTML only with a different language. Most technical documents share a set of elements to convey information, they include: lists, headings, images, and tables. Markdown communicates with Jekyll to perform a simple translation into digital authoring whereas HTML is a sematic language that refers to meaning and directs specific syntax in the form of elements, tags, and commentary. Tags are an important aspect of HTML and Markdown as they allow the user to designate markers for sentence display. In plain text writers, such as Microsoft Word and notepad, the option to bold, underline, or italicize is done through the typing process. However, in web based editors, such as Markdown and HTML, the computer has to be specifically instructed through the use of tags to alter text for emphasis. Furthermore, paragraph, line breaks, and lists need to be distinctly marked. This added layer of technicality may seem to overcomplicate the writing process, however it actually liberates the writer from the formula of textual editing. Take for example a template: the standard plain text editor does not allow the user to alter many aspects of the formatting or overall display. With editing capability, the template is not the final product - rather, it acts as a canvas that can be morphed and changed. This conversation ties back to my first reflection which argued that digital authoring is indeed a form of writing and literature. The nuances described give the digital writer the same and if not more flexibility than the traditional writer, which leads to a distinctly personal art. <br/>
