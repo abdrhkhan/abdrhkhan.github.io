@@ -13,6 +13,16 @@
       {% if site.title and site.title != page.title %}
       <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
       {% endif %}
+      
+      {% if post %}
+           {% assign categories = post.categories %}
+      {% else %}
+           {% assign categories = page.categories %}
+      {% endif %}
+        {% if categories.size > 0%}
+            <p><strong>Posted In</strong>: {{categories | join: ', ' | capitalize }}</p>
+      {%endif%}
+      
         {% include navigation.html %}
       {{ content }}
 
