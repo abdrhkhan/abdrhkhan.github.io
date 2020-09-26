@@ -8,10 +8,10 @@ categories:
 - Reflection
 ---
 **Reflection:**<br/>
-This week we covered the big picture narrative of metadata. In the purest form, metadata refers to "data about data" meaning it speaks about present information in the 3rd person. There are multiple different varieties of metadata including descriptive, structural and administrative. The following describe each in detail: 
-*Descriptive: covers topics related to identification such as title, author, file time, keywords, and date/time of delivery<br/>
-*Structural: refers to the connectivity and overlay of information and their relationships between each other<br/> 
-*Administrative: describes technical information and the their owners <br/>
+This week we covered the big picture narrative of metadata. In the purest form, metadata refers to "data about data" meaning it speaks about present information in the 3rd person. There are multiple different varieties of metadata including descriptive, structural and administrative. The following describe each in detail: <br/>
+-Descriptive: covers topics related to identification such as title, author, file time, keywords, and date/time of delivery<br/>
+-Structural: refers to the connectivity and overlay of information and their relationships between each other<br/> 
+-Administrative: describes technical information and the their owners <br/>
 Combined, these metadata types form the framework of compartmentalizing data in a digital work. Efficient digital asset management simplifies organization leading to more purposeful authoring practices. In a broader sense, metadata makes life easier by giving the webpage a "seal" to deliver the actual content. It should be noted that metadata is not necessary for website design. Rather, it gives the page the look and feel of a carefully throughout and digestible content. <br/>
 <br/> 
 Another major functionality of metadata involves the application to Search Engine Optimizations (SEO). Each page bears a "Meta Tag" which holds specific information about the content, author, and publisher. This metadata can be detected by search engine result pages (SERP) to populate the most desirable link. SEO must be leveraged to optimize the probability of having a webpage appear near the top of search results. Numerous studies have shown that users only click on the first few options on any search result. Given this information, it is paramount that authors use metadata tags for SEO. When digital authors can master these techniques, digital marketing takes care of the rest. <br/>
