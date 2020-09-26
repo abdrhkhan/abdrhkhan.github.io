@@ -1,6 +1,11 @@
 ---
 title: Weekly Reflection - What is a File?
 layout: post
+author: 
+  name: Abdul Rahman Khan 
+  url: https://abdrhkhan.github.io/
+categories: 
+- Reflection
 ---
 **Reflection:**<br/>
 This week, we uncovered the multi-dimensional nature of files. A file is a convenient way to formalize and display data. In conventional computer storage, files cascade from one folder to the next. This data structure allows for information to be collected and organized based on attributions to other files. For example, a student may collect all the syllabi from the fall semester under a "Fall 2020 Syllabi" folder. By having everything at their disposal, a student will quickly be able to find and retrieve pertinent information. This "hierarchical system" can be described using a number of metaphors - namely the parent-child relationship where one leads to another. While intuitive, the simplicity of the parent-child relationship helps the digital author devise a structure to approach their own writing.    
