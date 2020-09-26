@@ -1,6 +1,11 @@
 ---
 layout: post 
 title: Week 4 Activity
+author: 
+  name: Abdul Rahman Khan 
+  url: https://abdrhkhan.github.io/
+categories: 
+- Hands On
 ---
 The following are images from my Summer Food Research project. I included them because they are a big part of what I did this summer. 
 <br/>
