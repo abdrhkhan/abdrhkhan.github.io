@@ -1,6 +1,11 @@
 ---
 layout: post
 title: First Post
+author: 
+  name: Abdul Rahman Khan 
+  url: https://abdrhkhan.github.io/
+categories: 
+- Hands On
 ---
 
 This is my **first post**.
